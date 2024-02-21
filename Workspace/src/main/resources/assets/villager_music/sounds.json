@@ -1,0 +1,26 @@
+{
+  "aotl": {
+    "sounds": [
+      {
+        "name": "villager_music:aotl",
+        "stream": false
+      }
+    ]
+  },
+  "cw": {
+    "sounds": [
+      {
+        "name": "villager_music:cw",
+        "stream": false
+      }
+    ]
+  },
+  "matb": {
+    "sounds": [
+      {
+        "name": "villager_music:matb",
+        "stream": false
+      }
+    ]
+  }
+}
